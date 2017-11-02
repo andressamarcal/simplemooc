@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-venv
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -56,6 +53,7 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
+venv
 
 # Flask stuff:
 instance/
