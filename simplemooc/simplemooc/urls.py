@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
-from simplemooc.core.views import home
+from simplemooc.core.views import home, contact
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
