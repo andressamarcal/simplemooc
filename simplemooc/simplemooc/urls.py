@@ -19,5 +19,6 @@ from simplemooc.core.views import home
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^contato/$', contact, name='contact'),
     url(r'^$', home, name='home'),
 ]
