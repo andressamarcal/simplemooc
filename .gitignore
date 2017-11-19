@@ -109,3 +109,4 @@ ENV/
 migrations
 db.sqlite3
 .DS_Store
+db.sqlite3
