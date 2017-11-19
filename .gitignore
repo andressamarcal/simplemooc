@@ -104,3 +104,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#Django
+migrations
+db.sqlite3
+.DS_Store
